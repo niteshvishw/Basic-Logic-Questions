@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Pali
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse Number", "Reverse Number\Reverse Number.csproj", "{A10CD306-C38A-4F20-9DED-7102D81EBB9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{AB7BFA7E-7557-40E5-BB4C-371B6133D41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A10CD306-C38A-4F20-9DED-7102D81EBB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A10CD306-C38A-4F20-9DED-7102D81EBB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A10CD306-C38A-4F20-9DED-7102D81EBB9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB7BFA7E-7557-40E5-BB4C-371B6133D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB7BFA7E-7557-40E5-BB4C-371B6133D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB7BFA7E-7557-40E5-BB4C-371B6133D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB7BFA7E-7557-40E5-BB4C-371B6133D41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
