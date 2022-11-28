@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace While_Loop_Even_Number
+namespace Even_Number
 {
     class Program
     {

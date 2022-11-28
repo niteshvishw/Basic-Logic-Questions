@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse String", "Reverse S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While Loop - (1 To 100)", "While Loop - (1 To 100)\While Loop - (1 To 100).csproj", "{0B402322-1C56-4BDF-BB7F-ABFEA871B791}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "While Loop Even Number", "While Loop Even Number\While Loop Even Number.csproj", "{675B57EA-C14F-4CD7-B588-FEBEDBAACB7E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Even Number", "While Loop Even Number\Even Number.csproj", "{675B57EA-C14F-4CD7-B588-FEBEDBAACB7E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrom", "Palindrom\Palindrom.csproj", "{7F0D2540-087B-4B9C-AD74-C94D128FE07A}"
 EndProject
