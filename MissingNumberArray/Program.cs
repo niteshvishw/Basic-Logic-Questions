@@ -10,7 +10,7 @@ namespace MissingNumberArray
     {
         static void Main(string[] args)
         {
-            int[] array = { 1, 2, 3, 5, 6,8 };
+            int[] array = { 1, 2, 3, 5, 6 };
             int MisNumber = 0;
 
             for(int i=0;i<array.Length-1;i++)
